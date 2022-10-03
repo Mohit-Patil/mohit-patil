@@ -7,7 +7,7 @@
   </a>
   </p>
 
-- 🔭 I’m currently working at **Infosys as Digital Specialist Engineer**
+- 🔭 I’m currently working at **Cloudera as Software Engineer 2**
 
 - Contact: **mohit_patil@outlook.in**
 
