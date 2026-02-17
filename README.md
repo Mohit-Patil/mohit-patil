@@ -11,7 +11,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-> I build production-grade backend systems and AI-assisted developer workflows.
 
 ## Current Projects
 
