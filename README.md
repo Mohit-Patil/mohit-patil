@@ -14,6 +14,7 @@
 
 ## Current Projects
 
+- [clawdex-mobile](https://github.com/Mohit-Patil/clawdex-mobile): Control Codex from your phone using an Expo React Native app and a Rust bridge.
 - [codex-mirror](https://github.com/Mohit-Patil/codex-mirror): Manage isolated Codex clones and runtimes from one CLI/TUI.
 - [arkaledge](https://github.com/Mohit-Patil/arkaledge): Multi-agent spec-to-code delivery with Kanban and git worktrees.
 - [container-tools](https://github.com/Mohit-Patil/container-tools): Docker devbox for Claude Code, Codex, Cursor CLI, Copilot CLI, and GitHub CLI.
