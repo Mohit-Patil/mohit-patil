@@ -1,5 +1,7 @@
 # Mohit Patil
 
+Founder & CEO of [ArkalEdge](https://arkaledge.com), a software company in Pune, India. Products: [Clawdex](https://getclawdex.com) (your coding agents on iOS and Android), [Onhand](https://onhand.arkaledge.com) (an on-device AI image studio for iPhone), [KeySwitch](https://mohit-patil.github.io/keyswitch/) (a keyboard layer for macOS), and [Heritage](https://heritage.arkaledge.com) (an interactive 3D Mumbai).
+
 
 
 [![Followers](https://img.shields.io/github/followers/Mohit-Patil?style=flat-square&logo=github)](https://github.com/Mohit-Patil?tab=followers)
